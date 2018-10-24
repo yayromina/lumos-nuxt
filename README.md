@@ -1,6 +1,6 @@
-# hostjoy-landing
+# Lumos
 
-> Lumos - a basic Nuxt.js Site Starter
+> Lumos - a basic Nuxt.js App Boilerplate
 
 ## Features
 
