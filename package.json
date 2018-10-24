@@ -1,7 +1,7 @@
 {
-  "name": "hostjoy-landing",
+  "name": "lumos-nuxt",
   "version": "1.0.0",
-  "description": "Nust.js HostJoy landing site",
+  "description": "Nuxt.js Starter",
   "author": "Romina Barrett",
   "private": true,
   "scripts": {
